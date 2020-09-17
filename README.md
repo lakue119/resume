@@ -38,28 +38,28 @@
 # 프로젝트
 
 ## 개인 프로젝트
-### 범죄율 개선 솔루션
+#### 범죄율 개선 솔루션
 공공데이터를 활용해 다른 지역들과 비교해 범죄율을 개선할 수 있도록 솔루션을 제공해주는 어플로 공공데이터를 활용해 데이터를 시각화 하는 등 여러가지 경험을 했습니다.
 * 기간 : 2017.11 ~ 2018.01
 * 소속 : 개인
 * 역할 : Android
 * 사용기술 : Android
 
-### MessageTalk
+#### MessageTalk
 카카오톡과 같이 친구들과 메시지를 주고받는 앱으로 앱에 대한 흥미를 가지게 된 계기가 된 앱입니다.
 * 기간 : 2018.02
 * 소속 : 개인
 * 역할 : Android
 * 사용기술 : Android, Firebase
 
-### 스마트 좌석 시스템
+#### 스마트 좌석 시스템
 하드웨어와 안드로이드를 접하여 만들어 본 어플입니다. 아두이노 센서를 통해 저장한 데이터를 앱으로 시각화해서 보여주는 색도로운 경험을 해보았습니다.
 * 기간 : 2018.03 ~ 2018.05
 * 소속 : 개인
 * 역할 : Android
 * 사용기술 : Android, Arduino, Mysql
 
-### News Reader
+#### News Reader
 실시간으로 뉴스를 받아와 매일 뉴스를 확인할 수 있는 앱을 만듦으로서 평소 뉴스를 따로 챙겨보지 않는 저로서는 이 앱에 있는 뉴스라도 챙겨보고자 하는 의미에서 만들어 보았습니다.
 * 기간 : 2020.04
 * 소속 : 개인
@@ -67,7 +67,7 @@
 * 사용기술 : Kotlin, rss크롤링
 
 
-### 로또 한방
+#### 로또 한방
 로또시뮬레이션을 통해 로또확률을 확인할 수 있는 앱으로 디자인패턴 활용에 대한 공부와 여러가지 해보고싶은 기술들을 사용해 보았던 앱입니다.
 * 기간 : 2020.03 ~ 2020.05
 * 소속 : 개인
@@ -82,7 +82,7 @@
 </div>
 
 ## 회사 프로젝트
-### 생산관리시스템
+#### 생산관리시스템
 공장에서 사용하는 생산관리 시스템을 구축함으로서 여러 공장 상황에 맞도록 프로그램을 유연하게 만들어 볼 수 있었습니다.
 * 기간 : 2018.11 ~ 2019.02
 * 소속 : 유디엠텍
@@ -96,7 +96,7 @@
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/74101711-2234bc80-4b80-11ea-9dcc-2b4d8960e110.png">
 </div>
 
-### 러블리마켓
+#### 러블리마켓
 오프라인 마켓 행사와 온라인 스토어를 운영하는 앱으로 새 프로젝트 개발과 유지보수를 하고있습니다.
 * 기간 : 2019.03 ~ 현재
 * 소속 : 플리팝
@@ -104,7 +104,7 @@
 * 사용기술 : Kotlin
 
 ## 라이브러리
-### LakuePagingButton
+#### LakuePagingButton
 [Github] https://github.com/lakue119/LakuePagingButton   
 
 앱에서 페이징 처리를 버튼으로 처리하는 라이브러리입니다.
@@ -113,7 +113,7 @@
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/75774183-badee680-5d92-11ea-83c0-3488209486ba.gif">
 </div>
 
-### LakuePopupActivity
+#### LakuePopupActivity
 [Github] https://github.com/lakue119/LakuePopupActivity  
 
 상황에 따른 팝업처리방식으로 띄워주는 Activity입니다.
@@ -125,13 +125,13 @@
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/76101444-c9870100-6011-11ea-95eb-ef959a95cfbf.jpeg">
 </div>
 
-### RoundedImageView
+#### RoundedImageView
 [Github] https://github.com/lakue119/RoundedImageView   
 
 이미지 가장자리를 둥글게 처리해주는 라이브러리입니다.
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/75465250-b483ef80-59cb-11ea-8930-268394dc3383.jpeg">
 
-### ImageVideoView
+#### ImageVideoView
 [Github] https://github.com/lakue119/ImageVideoView   
 
 url로 데이터를 받아왔을 때, 이미지인지 동영상파일인지 체크를 한 후 이미지면 이미지로, 동영상이면 동영상으로 분기해주는 라이브러리입니다.
