@@ -27,6 +27,7 @@
   * LakuePopupActivity
   * RoundedImageView
   * ImageVideoView
+* [보유기술 및 사용가능 라이브러리](#보유기술-및-사용가능-라이브러리)
   
 ## 경력
 [플리팝](https://fleapop.co.kr/re/store/home/store)
@@ -72,7 +73,7 @@
 * 기간 : 2020.03 ~ 2020.05
 * 소속 : 개인
 * 역할 : Android
-* 사용기술 : Kotlin, Firebase, Databinding
+* 사용기술 : Kotlin, Firebase, Databinding, Web crawling
 <div>
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/89117908-7b9cf900-d4dc-11ea-8f31-d79671ec520c.png">
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/89117905-72139100-d4dc-11ea-9c5b-57a32c9be9ca.png">
@@ -140,3 +141,17 @@ url로 데이터를 받아왔을 때, 이미지인지 동영상파일인지 체�
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/74158490-82e5f700-4c5d-11ea-95e8-84679f3fefca.gif">
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/74158604-b759b300-4c5d-11ea-9695-e2eca7e7736a.jpeg">
 </div>
+
+## 보유기술 및 사용가능 라이브러리
+* Android (Java & Kotlin)
+* Naver SDK(Map, Login, Search)
+* Kakao SDK(Map, Login)
+* Firebase
+* Sqlite
+* Architecture Framework(DataBinding, LiveData, Room, ViewModel)
+* GitHub
+* Coroutines
+* Restful API Network
+* Custom UI
+* Realm
+* Web crawling
