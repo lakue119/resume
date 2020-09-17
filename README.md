@@ -4,7 +4,6 @@
 
 * Email: audfkr0808@naver.com
 * GitHub: https://github.com/lakue119
-* facebook: https://www.facebook.com/profile.php?id=100001686914696
 * linkedIn: https://www.linkedin.com/in/%EB%AA%85%EB%9D%BD-%EC%B5%9C-6108561a6/
 * T-story Blog: https://lakue.tistory.com/
 * Web Page : https://lakue119.github.io/
