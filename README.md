@@ -13,13 +13,13 @@
 * [경력](#경력)
   * 유디엠텍
   * 플리팝
-* [개인프로젝트](#개인 프로젝트)
+* [개인 프로젝트](#개인-프로젝트)
   * 범죄율 개선 솔루선
   * MessageTalk
   * 스마트 좌석 시스템
   * News Reader
   * 로또한방
-* [회사 프로젝트](#회사 프로젝트)
+* [회사 프로젝트](#회사-프로젝트)
   * 러블리마켓
   * 생산관리시스템
 * [라이브러리](#라이브러리)
@@ -105,7 +105,8 @@
 
 ## 라이브러리
 ### LakuePagingButton
-[Github] https://github.com/lakue119/LakuePagingButton
+[Github] https://github.com/lakue119/LakuePagingButton   
+
 앱에서 페이징 처리를 버튼으로 처리하는 라이브러리입니다.
 <div>
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/75774172-b7e3f600-5d92-11ea-99a0-6787dbecf0bc.gif">
@@ -113,7 +114,8 @@
 </div>
 
 ### LakuePopupActivity
-[Github] https://github.com/lakue119/LakuePopupActivity
+[Github] https://github.com/lakue119/LakuePopupActivity  
+
 상황에 따른 팝업처리방식으로 띄워주는 Activity입니다.
 <div>
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/76101430-c68c1080-6011-11ea-940b-4a82d66311cf.jpeg">
@@ -124,12 +126,14 @@
 </div>
 
 ### RoundedImageView
-[Github] https://github.com/lakue119/RoundedImageView
-상황에 따른 팝업처리방식으로 띄워주는 Activity입니다.
+[Github] https://github.com/lakue119/RoundedImageView   
+
+이미지 가장자리를 둥글게 처리해주는 라이브러리입니다.
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/75465250-b483ef80-59cb-11ea-8930-268394dc3383.jpeg">
 
 ### ImageVideoView
-[Github] https://github.com/lakue119/ImageVideoView
+[Github] https://github.com/lakue119/ImageVideoView   
+
 url로 데이터를 받아왔을 때, 이미지인지 동영상파일인지 체크를 한 후 이미지면 이미지로, 동영상이면 동영상으로 분기해주는 라이브러리입니다.
 <div>
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/74158490-82e5f700-4c5d-11ea-95e8-84679f3fefca.gif">
