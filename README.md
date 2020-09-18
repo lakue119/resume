@@ -146,6 +146,9 @@ url로 데이터를 받아왔을 때, 이미지인지 동영상파일인지 체�
 * Android (Java & Kotlin)
 * Naver SDK(Map, Login, Search)
 * Kakao SDK(Map, Login)
+* Facebook SDK(Login)
+* Google SDK(Youtube, Login, Map)
+* Google Analytics connect
 * Firebase
 * Sqlite
 * GitHub
@@ -154,3 +157,11 @@ url로 데이터를 받아왔을 때, 이미지인지 동영상파일인지 체�
 * Custom UI
 * Realm
 * Web crawling
+* Lottie
+* Library publish
+
+### Etc
+* C, C#
+* Mysql, postgresql
+* arduino
+* git
