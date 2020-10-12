@@ -26,6 +26,7 @@
   * 러블리마켓
   * 생산관리시스템
 * [라이브러리](#라이브러리)
+  * HtmlEditor
   * LakuePagingButton
   * LakuePopupActivity
   * RoundedImageView
