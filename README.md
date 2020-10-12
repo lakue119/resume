@@ -125,7 +125,14 @@
 * 소속 : 플리팝
 * 역할 : Android
 * 사용기술 : Kotlin
-
+<div>
+<img width="15%" src="https://lh3.googleusercontent.com/YVdX3W-AANiTFYuZpUawNYpm-U7PPgeGEKepB0W7YiaWiO_qWiYdJPVMuFuVdxHCsRe2=w720-h310-rw">
+<img width="15%" src="https://lh3.googleusercontent.com/Ui5g8JDNzvf6E38lncokViCyPQSG6x95pX-GoA91HlQJ6BaPClh0dw1JbR3diHB3tBM=w720-h310-rw">
+<img width="15%" src="https://lh3.googleusercontent.com/yU2t15bjFXSP3EAAJNr_U6fBQHfFK4RaOfwLP_J5Mt1HXICbxU8VkNYClAIIEF4rEDk=w720-h310-rw">
+<img width="15%" src="https://lh3.googleusercontent.com/z93hGhGaQI9TjeEVfOrjZ_P1MeLJF4wdPql1gmgALUZInJAlL_-G9qCcpffrgu_lCLhZ=w720-h310-rw">
+<img width="15%" src="https://lh3.googleusercontent.com/6S8MfxzK9AXYf-GkOKYDmZKSMIVlgv62hqIcTeIpYTKz8-7Nca_KyMf3zcnWx1IQTkQ=w720-h310-rw">
+<img width="15%" src="https://lh3.googleusercontent.com/a487lfrznCLhQl9gl8-Z0gFIXgJBkoU32hquE9JEQDAz2akoGWF_zhR0GR2397HWgB0P=w720-h310-rw">
+</div>
 <br>
 
 ## 라이브러리
