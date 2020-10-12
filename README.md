@@ -8,6 +8,9 @@
 * T-story Blog: https://lakue.tistory.com/
 * Web Page : https://lakue119.github.io/
 
+<br>
+
+
 ## 목차
 
 * [경력](#경력)
@@ -28,7 +31,9 @@
   * RoundedImageView
   * ImageVideoView
 * [보유기술 및 사용가능 라이브러리](#보유기술-및-사용가능-라이브러리)
-  
+
+<br>
+
 ## 경력
 [플리팝](https://fleapop.co.kr/re/store/home/store)
 * 2019.03 ~ 현재   
@@ -36,8 +41,9 @@
 [유디엠텍](http://www.udmtek.com/sub/kor/sub01_01.php)
 * 2018.11 ~ 2019.02
 
-# 프로젝트
+<br>
 
+# 프로젝트
 ## 개인 프로젝트
 ### 범죄율 개선 솔루션
 공공데이터를 활용해 다른 지역들과 비교해 범죄율을 개선할 수 있도록 솔루션을 제공해주는 어플로 공공데이터를 활용해 데이터를 시각화 하는 등 여러가지 경험을 했습니다.
@@ -46,12 +52,16 @@
 * 역할 : Android
 * 사용기술 : Android
 
+<br>
+
 ### MessageTalk
 카카오톡과 같이 친구들과 메시지를 주고받는 앱으로 앱에 대한 흥미를 가지게 된 계기가 된 앱입니다.
 * 기간 : 2018.02
 * 소속 : 개인
 * 역할 : Android
 * 사용기술 : Android, Firebase
+
+<br>
 
 ### 스마트 좌석 시스템
 하드웨어와 안드로이드를 접하여 만들어 본 어플입니다. 아두이노 센서를 통해 저장한 데이터를 앱으로 시각화해서 보여주는 색도로운 경험을 해보았습니다.
@@ -60,12 +70,16 @@
 * 역할 : Android
 * 사용기술 : Android, Arduino, Mysql
 
+<br>
+
 ### News Reader
 실시간으로 뉴스를 받아와 매일 뉴스를 확인할 수 있는 앱을 만듦으로서 평소 뉴스를 따로 챙겨보지 않는 저로서는 이 앱에 있는 뉴스라도 챙겨보고자 하는 의미에서 만들어 보았습니다.
 * 기간 : 2020.04
 * 소속 : 개인
 * 역할 : Android
 * 사용기술 : Kotlin, rss크롤링
+
+<br>
 
 
 ### 로또 한방
@@ -82,7 +96,12 @@
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/89117919-8e173280-d4dc-11ea-9b04-6a97ee5b18f3.png">
 </div>
 
+<br>
+
 ## 회사 프로젝트
+
+<br>
+
 ### 생산관리시스템
 공장에서 사용하는 생산관리 시스템을 구축함으로서 여러 공장 상황에 맞도록 프로그램을 유연하게 만들어 볼 수 있었습니다.
 * 기간 : 2018.11 ~ 2019.02
@@ -97,6 +116,8 @@
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/74101711-2234bc80-4b80-11ea-9dcc-2b4d8960e110.png">
 </div>
 
+<br>
+
 ### 러블리마켓
 오프라인 마켓 행사와 온라인 스토어를 운영하는 앱으로 새 프로젝트 개발과 유지보수를 하고있습니다.
 * 기간 : 2019.03 ~ 현재
@@ -104,7 +125,23 @@
 * 역할 : Android
 * 사용기술 : Kotlin
 
+<br>
+
 ## 라이브러리
+
+### HtmlEditor
+[Github] https://github.com/lakue119/Java-HtmlEditor
+
+HtmlEditor는 사진, 텍스트 및 동영상을 html 코드로 변환하고 블로그형식으로 작성하는 편집기입니다.
+<div>
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/95707716-47407880-0c95-11eb-9276-d504a6037051.gif">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/95707723-4a3b6900-0c95-11eb-9d04-b7927c305481.gif">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/95707863-b4eca480-0c95-11eb-8823-647791cedb6e.gif">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/95707767-65a67400-0c95-11eb-9154-e09585216268.gif">
+</div>
+
+<br>
+
 ### LakuePagingButton
 [Github] https://github.com/lakue119/LakuePagingButton   
 
@@ -113,6 +150,8 @@
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/75774172-b7e3f600-5d92-11ea-99a0-6787dbecf0bc.gif">
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/75774183-badee680-5d92-11ea-83c0-3488209486ba.gif">
 </div>
+
+<br>
 
 ### LakuePopupActivity
 [Github] https://github.com/lakue119/LakuePopupActivity  
@@ -126,12 +165,16 @@
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/76101444-c9870100-6011-11ea-95eb-ef959a95cfbf.jpeg">
 </div>
 
+<br>
+
 ### RoundedImageView
 [Github] https://github.com/lakue119/RoundedImageView   
 
 이미지 가장자리를 둥글게 처리해주는 라이브러리입니다.   
 
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/75465250-b483ef80-59cb-11ea-8930-268394dc3383.jpeg">
+
+<br>
 
 ### ImageVideoView
 [Github] https://github.com/lakue119/ImageVideoView   
@@ -141,6 +184,8 @@ url로 데이터를 받아왔을 때, 이미지인지 동영상파일인지 체�
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/74158490-82e5f700-4c5d-11ea-95e8-84679f3fefca.gif">
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/74158604-b759b300-4c5d-11ea-9695-e2eca7e7736a.jpeg">
 </div>
+
+<br>
 
 ## 보유기술 및 사용가능 라이브러리
 * Android (Java & Kotlin)
@@ -159,6 +204,8 @@ url로 데이터를 받아왔을 때, 이미지인지 동영상파일인지 체�
 * Web crawling
 * Lottie
 * Library publish
+
+<br>
 
 ### Etc
 * C, C#
