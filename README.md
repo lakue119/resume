@@ -85,6 +85,8 @@
 
 ### 로또 한방
 로또시뮬레이션을 통해 로또확률을 확인할 수 있는 앱으로 디자인패턴 활용에 대한 공부와 여러가지 해보고싶은 기술들을 사용해 보았던 앱입니다.
+<br>
+[Google Play 스토어] https://play.google.com/store/apps/details?id=com.lakue.lottoanalysis
 * 기간 : 2020.03 ~ 2020.05
 * 소속 : 개인
 * 역할 : Android
@@ -121,6 +123,8 @@
 
 ### 러블리마켓
 오프라인 마켓 행사와 온라인 스토어를 운영하는 앱으로 새 프로젝트 개발과 유지보수를 하고있습니다.
+<br>
+[Google Play 스토어] https://play.google.com/store/apps/details?id=kr.co.fleapop.fp
 * 기간 : 2019.03 ~ 현재
 * 소속 : 플리팝
 * 역할 : Android
