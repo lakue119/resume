@@ -27,6 +27,7 @@
   * 생산관리시스템
 * [라이브러리](#라이브러리)
   * HtmlEditor
+  * ImageEditor
   * LakuePagingButton
   * LakuePopupActivity
   * RoundedImageView
@@ -151,6 +152,23 @@ HtmlEditor는 사진, 텍스트 및 동영상을 html 코드로 변환하고 블
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/95707863-b4eca480-0c95-11eb-8823-647791cedb6e.gif">
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/95707767-65a67400-0c95-11eb-9154-e09585216268.gif">
 </div>
+
+<br>
+
+### ImageEditor
+[Github] https://github.com/lakue119/Java-Image_Editor
+
+이미지를 원하는 모양으로 자르고, 꾸밀 수 있는 편집기입니다.
+<div>
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/95761857-de362080-0ce7-11eb-8e0e-2b390f7181f4.gif">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/95761895-ed1cd300-0ce7-11eb-9ced-4cf80ed8051e.gif">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/95761970-0aea3800-0ce8-11eb-9a7b-c3e6ed8e3773.gif">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/95762011-18072700-0ce8-11eb-9a78-35fba79d91a7.gif">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/95762064-2b19f700-0ce8-11eb-8c61-d1a025764efe.gif">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/95762206-58ff3b80-0ce8-11eb-888c-a9e6e73dfb6c.gif">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/95767657-0b86cc80-0cf0-11eb-8fbd-63e76202411a.gif">
+</div>
+<br> 
 
 <br>
 
