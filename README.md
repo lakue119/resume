@@ -229,6 +229,10 @@ url로 데이터를 받아왔을 때, 이미지인지 동영상파일인지 체�
 * Facebook SDK(Login)
 * Google SDK(Youtube, Login, Map)
 * Google Analytics connect
+* MVVM
+* ViewModel
+* Dagger2 Hilt
+* Room
 * Firebase
 * Sqlite
 * GitHub
