@@ -109,7 +109,7 @@
 <br>
 
 ### 오늘의 옷차림
-아침마다 외출하기 전에 날씨확인을 하는 것이 번거로워 그날 날씨에 따라서 무슨 옷을 입어야 할지 소개해주는 앱을 제작했습니다. MVVM패턴을 적용하고, Dagger2 Hilt를 사용해보았습니다.
+아침마다 외출하기 전에 날씨확인을 하는 것이 번거로워 그날 날씨에 따라서 무슨 옷을 입어야 할지 소개해주는 앱을 제작했습니다.
 <br>
 [Google Play 스토어] https://play.google.com/store/apps/details?id=com.lakue.todaysclothes
 * 기간 : 2020.11 ~ 2020.12
