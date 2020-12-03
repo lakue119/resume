@@ -107,6 +107,17 @@
 
 <br>
 
+### 오늘의 옷차림
+그날 날씨에 따라서 무슨 옷을 입어야 할지 소개해주는 앱입니다.
+<br>
+[Google Play 스토어] 심사중
+* 기간 : 2020.11 ~ 2020.12
+* 소속 : 개인
+* 역할 : Android
+* 사용기술 : Kotlin, Firebase, MVVM, Hilt, Databinding, Room
+
+<br>
+
 ## 회사 프로젝트
 
 <br>
