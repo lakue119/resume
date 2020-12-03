@@ -22,6 +22,7 @@
   * 스마트 좌석 시스템
   * News Reader
   * 로또한방
+  * 오늘의 옷차림
 * [회사 프로젝트](#회사-프로젝트)
   * 러블리마켓
   * 생산관리시스템
@@ -110,12 +111,17 @@
 ### 오늘의 옷차림
 아침마다 외출하기 전에 날씨확인을 하는 것이 번거로워 그날 날씨에 따라서 무슨 옷을 입어야 할지 소개해주는 앱을 제작했습니다. MVVM패턴을 적용하고, Dagger2 Hilt를 사용해보았습니다.
 <br>
-[Google Play 스토어] 심사중
+[Google Play 스토어] https://play.google.com/store/apps/details?id=com.lakue.todaysclothes
 * 기간 : 2020.11 ~ 2020.12
 * 소속 : 개인
 * 역할 : Android
 * 사용기술 : Kotlin, Firebase, MVVM, Hilt, Databinding, Room
-
+<div>
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/101014273-f8ce9c80-35a8-11eb-8580-3c854d16d43e.png">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/101014266-f66c4280-35a8-11eb-8ea4-74d5ca3a0e18.png">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/101014310-06842200-35a9-11eb-8f78-5b70774e4b0e.png">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/101014292-fff5aa80-35a8-11eb-8299-e1aa7bce7597.png">
+</div>
 <br>
 
 ## 회사 프로젝트
