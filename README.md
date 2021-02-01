@@ -54,7 +54,7 @@
 ### 클린제주
 제주도의 분리수거방법, 클린하우스의 위치정보를 제공해주는 앱을 제작하였습니다.
 <br>
-[Google Play 스토어] https://play.google.com/store/apps/details?id=com.lakue.todaysclothes
+[Google Play 스토어] https://play.google.com/store/apps/details?id=com.lakue.cleanjeju
 * 기간 : 2021.01 ~ 2021.01
 * 소속 : 개인
 * 역할 : Android
