@@ -100,6 +100,7 @@
 <img width="15%" src="https://user-images.githubusercontent.com/31702431/89117919-8e173280-d4dc-11ea-9b04-6a97ee5b18f3.png">
 </div>
 <br>
+
 ### News Reader
 실시간으로 뉴스를 받아와 매일 뉴스를 확인할 수 있는 앱을 만듦으로서 평소 뉴스를 따로 챙겨보지 않는 저로서는 이 앱에 있는 뉴스라도 챙겨보고자 하는 의미에서 만들어 보았습니다.
 * 기간 : 2020.04
@@ -107,6 +108,7 @@
 * 역할 : Android
 * 사용기술 : Kotlin, rss크롤링
 <br>
+
 ### MessageTalk
 카카오톡과 같이 친구들과 메시지를 주고받는 앱으로 앱에 대한 흥미를 가지게 된 계기가 된 앱입니다.
 * 기간 : 2018.02
@@ -128,6 +130,7 @@
 * 역할 : Android
 * 사용기술 : Android, Arduino, Mysql
 <br>
+
 ### 범죄율 개선 솔루션
 공공데이터를 활용해 다른 지역들과 비교해 범죄율을 개선할 수 있도록 솔루션을 제공해주는 어플로 공공데이터를 활용해 데이터를 시각화 하는 등 여러가지 경험을 했습니다.
 * 기간 : 2017.11 ~ 2018.01
@@ -140,6 +143,7 @@
 ## 회사 프로젝트
 
 <br>
+
 ### 러블리마켓
 오프라인 마켓 행사와 온라인 스토어를 운영하는 앱으로 새 프로젝트 개발과 유지보수를 하고있습니다.
 <br>
@@ -156,6 +160,7 @@
 <img width="15%" src="https://lh3.googleusercontent.com/6S8MfxzK9AXYf-GkOKYDmZKSMIVlgv62hqIcTeIpYTKz8-7Nca_KyMf3zcnWx1IQTkQ=w720-h310-rw">
 <img width="15%" src="https://lh3.googleusercontent.com/a487lfrznCLhQl9gl8-Z0gFIXgJBkoU32hquE9JEQDAz2akoGWF_zhR0GR2397HWgB0P=w720-h310-rw">
 </div>
+
 <br>
 
 ### 생산관리시스템
