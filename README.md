@@ -17,12 +17,14 @@
   * 유디엠텍
   * 플리팝
 * [개인 프로젝트](#개인-프로젝트)
-  * 범죄율 개선 솔루선
+  * 
+  * 오늘의 옷차림
+  * 로또한방
+  * News Reader
   * MessageTalk
   * 스마트 좌석 시스템
-  * News Reader
-  * 로또한방
-  * 오늘의 옷차림
+  * 범죄율 개선 솔루선
+ 
 * [회사 프로젝트](#회사-프로젝트)
   * 러블리마켓
   * 생산관리시스템
@@ -48,15 +50,63 @@
 
 # 프로젝트
 ## 개인 프로젝트
-### 범죄율 개선 솔루션
-공공데이터를 활용해 다른 지역들과 비교해 범죄율을 개선할 수 있도록 솔루션을 제공해주는 어플로 공공데이터를 활용해 데이터를 시각화 하는 등 여러가지 경험을 했습니다.
-* 기간 : 2017.11 ~ 2018.01
+
+### 클린제주
+제주도의 분리수거방법, 클린하우스의 위치정보를 제공해주는 앱을 제작하였습니다.
+<br>
+[Google Play 스토어] https://play.google.com/store/apps/details?id=com.lakue.todaysclothes
+* 기간 : 2021.01 ~ 2021.01
 * 소속 : 개인
 * 역할 : Android
-* 사용기술 : Android
-
+* 데이터 :  공공데이터 포털
+* 사용기술 : Kotlin, Firebase, MVVM, Hilt, Databinding, RestFul API, XMLParser, CSVReader
+<div>
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/106457638-9b849800-64d2-11eb-944e-88d9977704bf.png">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/106457700-b35c1c00-64d2-11eb-928a-7f6babcf8fec.png">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/106457705-b48d4900-64d2-11eb-8f60-9d52df73d9b5.png">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/106457711-b5be7600-64d2-11eb-84a4-7b2dd286a02e.png">
+</div>
 <br>
 
+### 오늘의 옷차림
+아침마다 외출하기 전에 날씨확인을 하는 것이 번거로워 그날 날씨에 따라서 무슨 옷을 입어야 할지 소개해주는 앱을 제작했습니다.
+<br>
+[Google Play 스토어] https://play.google.com/store/apps/details?id=com.lakue.todaysclothes
+* 기간 : 2020.11 ~ 2020.12
+* 소속 : 개인
+* 역할 : Android
+* 사용기술 : Kotlin, Firebase, MVVM, Hilt, Databinding, Room, RestFul API
+<div>
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/101014273-f8ce9c80-35a8-11eb-8580-3c854d16d43e.png">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/101014266-f66c4280-35a8-11eb-8ea4-74d5ca3a0e18.png">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/101014310-06842200-35a9-11eb-8f78-5b70774e4b0e.png">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/101014292-fff5aa80-35a8-11eb-8299-e1aa7bce7597.png">
+</div>
+<br>
+
+### 로또 한방
+로또시뮬레이션을 통해 로또확률을 확인할 수 있는 앱으로 디자인패턴 활용에 대한 공부와 여러가지 해보고싶은 기술들을 사용해 보았던 앱입니다.
+<br>
+[Google Play 스토어] https://play.google.com/store/apps/details?id=com.lakue.lottoanalysis
+* 기간 : 2020.03 ~ 2020.05
+* 소속 : 개인
+* 역할 : Android
+* 사용기술 : Kotlin, Firebase, Databinding, Web crawling, RestFul API
+<div>
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/89117908-7b9cf900-d4dc-11ea-8f31-d79671ec520c.png">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/89117905-72139100-d4dc-11ea-9c5b-57a32c9be9ca.png">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/89117910-82c40700-d4dc-11ea-9f49-819935fa1d97.png">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/89117913-86f02480-d4dc-11ea-9bc1-dfccc742f44a.png">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/89117919-8e173280-d4dc-11ea-9b04-6a97ee5b18f3.png">
+</div>
+<br>
+### News Reader
+실시간으로 뉴스를 받아와 매일 뉴스를 확인할 수 있는 앱을 만듦으로서 평소 뉴스를 따로 챙겨보지 않는 저로서는 이 앱에 있는 뉴스라도 챙겨보고자 하는 의미에서 만들어 보았습니다.
+* 기간 : 2020.04
+* 소속 : 개인
+* 역할 : Android
+* 사용기술 : Kotlin, rss크롤링
+<br>
 ### MessageTalk
 카카오톡과 같이 친구들과 메시지를 주고받는 앱으로 앱에 대한 흥미를 가지게 된 계기가 된 앱입니다.
 * 기간 : 2018.02
@@ -77,55 +127,35 @@
 * 소속 : 개인
 * 역할 : Android
 * 사용기술 : Android, Arduino, Mysql
-
 <br>
-
-### News Reader
-실시간으로 뉴스를 받아와 매일 뉴스를 확인할 수 있는 앱을 만듦으로서 평소 뉴스를 따로 챙겨보지 않는 저로서는 이 앱에 있는 뉴스라도 챙겨보고자 하는 의미에서 만들어 보았습니다.
-* 기간 : 2020.04
+### 범죄율 개선 솔루션
+공공데이터를 활용해 다른 지역들과 비교해 범죄율을 개선할 수 있도록 솔루션을 제공해주는 어플로 공공데이터를 활용해 데이터를 시각화 하는 등 여러가지 경험을 했습니다.
+* 기간 : 2017.11 ~ 2018.01
 * 소속 : 개인
 * 역할 : Android
-* 사용기술 : Kotlin, rss크롤링
-
+* 사용기술 : Android
 <br>
 
-
-### 로또 한방
-로또시뮬레이션을 통해 로또확률을 확인할 수 있는 앱으로 디자인패턴 활용에 대한 공부와 여러가지 해보고싶은 기술들을 사용해 보았던 앱입니다.
-<br>
-[Google Play 스토어] https://play.google.com/store/apps/details?id=com.lakue.lottoanalysis
-* 기간 : 2020.03 ~ 2020.05
-* 소속 : 개인
-* 역할 : Android
-* 사용기술 : Kotlin, Firebase, Databinding, Web crawling
-<div>
-<img width="15%" src="https://user-images.githubusercontent.com/31702431/89117908-7b9cf900-d4dc-11ea-8f31-d79671ec520c.png">
-<img width="15%" src="https://user-images.githubusercontent.com/31702431/89117905-72139100-d4dc-11ea-9c5b-57a32c9be9ca.png">
-<img width="15%" src="https://user-images.githubusercontent.com/31702431/89117910-82c40700-d4dc-11ea-9f49-819935fa1d97.png">
-<img width="15%" src="https://user-images.githubusercontent.com/31702431/89117913-86f02480-d4dc-11ea-9bc1-dfccc742f44a.png">
-<img width="15%" src="https://user-images.githubusercontent.com/31702431/89117919-8e173280-d4dc-11ea-9b04-6a97ee5b18f3.png">
-</div>
-
-<br>
-
-### 오늘의 옷차림
-아침마다 외출하기 전에 날씨확인을 하는 것이 번거로워 그날 날씨에 따라서 무슨 옷을 입어야 할지 소개해주는 앱을 제작했습니다.
-<br>
-[Google Play 스토어] https://play.google.com/store/apps/details?id=com.lakue.todaysclothes
-* 기간 : 2020.11 ~ 2020.12
-* 소속 : 개인
-* 역할 : Android
-* 사용기술 : Kotlin, Firebase, MVVM, Hilt, Databinding, Room
-<div>
-<img width="15%" src="https://user-images.githubusercontent.com/31702431/101014273-f8ce9c80-35a8-11eb-8580-3c854d16d43e.png">
-<img width="15%" src="https://user-images.githubusercontent.com/31702431/101014266-f66c4280-35a8-11eb-8ea4-74d5ca3a0e18.png">
-<img width="15%" src="https://user-images.githubusercontent.com/31702431/101014310-06842200-35a9-11eb-8f78-5b70774e4b0e.png">
-<img width="15%" src="https://user-images.githubusercontent.com/31702431/101014292-fff5aa80-35a8-11eb-8299-e1aa7bce7597.png">
-</div>
-<br>
 
 ## 회사 프로젝트
 
+<br>
+### 러블리마켓
+오프라인 마켓 행사와 온라인 스토어를 운영하는 앱으로 새 프로젝트 개발과 유지보수를 하고있습니다.
+<br>
+[Google Play 스토어] https://play.google.com/store/apps/details?id=kr.co.fleapop.fp
+* 기간 : 2019.03 ~ 현재
+* 소속 : 플리팝
+* 역할 : Android
+* 사용기술 : Kotlin
+<div>
+<img width="15%" src="https://lh3.googleusercontent.com/YVdX3W-AANiTFYuZpUawNYpm-U7PPgeGEKepB0W7YiaWiO_qWiYdJPVMuFuVdxHCsRe2=w720-h310-rw">
+<img width="15%" src="https://lh3.googleusercontent.com/Ui5g8JDNzvf6E38lncokViCyPQSG6x95pX-GoA91HlQJ6BaPClh0dw1JbR3diHB3tBM=w720-h310-rw">
+<img width="15%" src="https://lh3.googleusercontent.com/yU2t15bjFXSP3EAAJNr_U6fBQHfFK4RaOfwLP_J5Mt1HXICbxU8VkNYClAIIEF4rEDk=w720-h310-rw">
+<img width="15%" src="https://lh3.googleusercontent.com/z93hGhGaQI9TjeEVfOrjZ_P1MeLJF4wdPql1gmgALUZInJAlL_-G9qCcpffrgu_lCLhZ=w720-h310-rw">
+<img width="15%" src="https://lh3.googleusercontent.com/6S8MfxzK9AXYf-GkOKYDmZKSMIVlgv62hqIcTeIpYTKz8-7Nca_KyMf3zcnWx1IQTkQ=w720-h310-rw">
+<img width="15%" src="https://lh3.googleusercontent.com/a487lfrznCLhQl9gl8-Z0gFIXgJBkoU32hquE9JEQDAz2akoGWF_zhR0GR2397HWgB0P=w720-h310-rw">
+</div>
 <br>
 
 ### 생산관리시스템
@@ -144,23 +174,6 @@
 
 <br>
 
-### 러블리마켓
-오프라인 마켓 행사와 온라인 스토어를 운영하는 앱으로 새 프로젝트 개발과 유지보수를 하고있습니다.
-<br>
-[Google Play 스토어] https://play.google.com/store/apps/details?id=kr.co.fleapop.fp
-* 기간 : 2019.03 ~ 현재
-* 소속 : 플리팝
-* 역할 : Android
-* 사용기술 : Kotlin
-<div>
-<img width="15%" src="https://lh3.googleusercontent.com/YVdX3W-AANiTFYuZpUawNYpm-U7PPgeGEKepB0W7YiaWiO_qWiYdJPVMuFuVdxHCsRe2=w720-h310-rw">
-<img width="15%" src="https://lh3.googleusercontent.com/Ui5g8JDNzvf6E38lncokViCyPQSG6x95pX-GoA91HlQJ6BaPClh0dw1JbR3diHB3tBM=w720-h310-rw">
-<img width="15%" src="https://lh3.googleusercontent.com/yU2t15bjFXSP3EAAJNr_U6fBQHfFK4RaOfwLP_J5Mt1HXICbxU8VkNYClAIIEF4rEDk=w720-h310-rw">
-<img width="15%" src="https://lh3.googleusercontent.com/z93hGhGaQI9TjeEVfOrjZ_P1MeLJF4wdPql1gmgALUZInJAlL_-G9qCcpffrgu_lCLhZ=w720-h310-rw">
-<img width="15%" src="https://lh3.googleusercontent.com/6S8MfxzK9AXYf-GkOKYDmZKSMIVlgv62hqIcTeIpYTKz8-7Nca_KyMf3zcnWx1IQTkQ=w720-h310-rw">
-<img width="15%" src="https://lh3.googleusercontent.com/a487lfrznCLhQl9gl8-Z0gFIXgJBkoU32hquE9JEQDAz2akoGWF_zhR0GR2397HWgB0P=w720-h310-rw">
-</div>
-<br>
 
 ## 라이브러리
 
