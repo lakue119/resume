@@ -17,6 +17,7 @@
   * 유디엠텍
   * 플리팝
 * [개인 프로젝트](#개인-프로젝트)
+  * 
   * 클린제주
   * 오늘의 옷차림
   * 로또한방
@@ -50,6 +51,21 @@
 
 # 프로젝트
 ## 개인 프로젝트
+
+### 옷나와
+가격비교 어플, 같은 상품을 검색하여 여러 쇼핑몰 사이트의 가격을 비교해 최저가로 옷을 구매할 수 있는 앱을 제작하였습니다.
+<br>
+* 기간 : 2021.03 ~ 2021.03
+* 소속 : 개인
+* 역할 : Android
+* 사용기술 : Kotlin, REST API, MVVM, Dagger2 Hilt, DataBinding, Clean Architecture
+<div>
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/110640315-0a50c180-81f4-11eb-8617-990b03530b75.png">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/110640297-03c24a00-81f4-11eb-9702-e476448ca5cf.png">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/110640311-091f9480-81f4-11eb-8e94-1e3fa91fae33.png">
+<img width="15%" src="https://user-images.githubusercontent.com/31702431/110640320-0b81ee80-81f4-11eb-9034-a45a1aa37870.png">
+</div>
+<br>
 
 ### 클린제주
 제주도의 분리수거방법, 클린하우스의 위치정보를 제공해주는 앱을 제작하였습니다.
